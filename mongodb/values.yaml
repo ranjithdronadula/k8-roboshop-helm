@@ -1,0 +1,3 @@
+statefulset:
+  imageURL: ranjithops/mongodb
+  imageVersion: v1
